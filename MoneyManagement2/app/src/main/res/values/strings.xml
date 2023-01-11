@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Manager Money</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="transactions_count">Tổng số</string>
+    <string name="summary">Số tiền hiện tại</string>
+    <string name="main_page">Trang chủ</string>
+    <string name="expenses">Chi</string>
+    <string name="incomes">Thu</string>
+    <string name="monthly_statistics">Thống kê hàng tháng</string>
+    <string name="add_expense">Thêm</string>
+    <string name="edit">Sửa</string>
+    <string name="null_string" />
+    <string name="hint_name">Nhập tên giao dịch</string>
+    <string name="hint_price">Nhập số tiền</string>
+    <string name="hint_date">Chọn ngày</string>
+    <string name="month_stats">Tổng</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="share">Chia sẻ</string>
+    <string name="send">Gửi...</string>
+    <string name="name">Tên</string>
+    <string name="category">Danh mục</string>
+    <string name="date">Ngày</string>
+
+    <string-array name="add_category_spinner">
+        <item>Các chi phí khác</item>
+        <item>Hóa đơn</item>
+        <item>Thanh toán</item>
+        <item>Ăn uống</item>
+        <item>Di chuyển</item>
+        <item>Căn hộ, chung cư</item>
+        <item>Sức khỏe và vệ sinh</item>
+        <item>Quần áo</item>
+        <item>Giải trí</item>
+    </string-array>
+
+    <string-array name="month_spinner">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

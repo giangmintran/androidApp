@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745373038943",
+    "project_id": "loginmoneymanger",
+    "storage_bucket": "loginmoneymanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745373038943:android:703d6cb8502d8546b99eea",
+        "android_client_info": {
+          "package_name": "com.example.moneymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745373038943-tv2im873qoeschmsf46b8o0inl8ifuqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0_J8CtL6watMXPEiMTnoyUAsWnkNb3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745373038943-tv2im873qoeschmsf46b8o0inl8ifuqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
